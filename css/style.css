@@ -15,6 +15,10 @@
   height: 44px;
 }
 
+.grayscale {
+  filter: grayscale(100%);
+}
+
 .text-orange {
   color: #e76f51;
 }
